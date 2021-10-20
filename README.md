@@ -1,4 +1,4 @@
-# Javascript Clock and Greet
+# JavaScript Clock and Greet
 
 #### [Live Preview](https://burak-kilic.github.io/JS-Clock/)
 
